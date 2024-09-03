@@ -1,0 +1,5 @@
+name: 'My first custom Drupal module'
+type: module
+core_version_requirement: 10.3.0
+description: 'This is module dev code'
+package: 'Acquia Module Dev Course'
